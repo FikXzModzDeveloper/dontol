@@ -1,0 +1,24 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quoted": "There are always many ways to look good",
+      "arti": "Selalu banyak cara untuk terlihat baik"
+    },
+    {
+      "id": 2,
+      "quoted": "Giving in doesn't mean you lose",
+      "arti": "Mengalah bukan berarti kau kalah"
+    },
+    {
+      "id": 3,
+      "quoted": "Silence is better explaining",
+      "arti": "Diam lebih baik daripada menjelaskan"
+    },
+    {
+      "id": 4,
+      "quoted": "Having no interest in anyone is so peaceful",
+      "arti": "Tidak tertarik dengan siapapun, itu sangat damai"
+    }
+  ]
+}
